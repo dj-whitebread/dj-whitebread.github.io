@@ -1,0 +1,46 @@
+/* Our logo is black line-art on a transparent background.
+   Invert it to white when the site is in dark mode so it stays visible. */
+html[data-theme="dark"] .logo img,
+html[data-theme="dark"] .profile_inner img {
+  filter: invert(1) brightness(1.9);
+}
+
+/* The profile-mode logo is a wordmark lockup, not an avatar photo -
+   override PaperMod's default circular avatar styling with a plain
+   rectangular box that keeps the image's natural aspect ratio. */
+.profile img {
+  border-radius: 0;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 220px;
+}
+
+/* "Latest post" teaser shown under the profile-mode subtitle/social icons. */
+.latest-post {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  align-self: stretch;
+  width: 100%;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  text-align: start;
+}
+
+.latest-post-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.6;
+  text-align: center;
+}
+
+/* Social icons live in the footer now, not the profile-mode hero. */
+.footer-social-icons {
+  display: flex;
+  justify-content: center;
+  padding-top: calc(var(--gap) * 1.5);
+}

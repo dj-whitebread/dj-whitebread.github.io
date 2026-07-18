@@ -1,0 +1,69 @@
+baseURL = 'https://djwhitebread.com'
+locale = 'en-us'
+title = 'djwhitebread.com'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[pagination]
+  pagerSize = 10
+
+[minify]
+  disableXML = true
+
+[params]
+  env = 'production'
+  defaultTheme = 'auto'
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+
+  [params.label]
+    text = 'dj whitebread'
+    icon = 'images/logo-mark.png'
+    iconHeight = 30
+
+  [params.profileMode]
+    enabled = true
+    subtitle = 'bread is delicous'
+    imageUrl = 'images/logo.png'
+    imageWidth = 519
+    imageHeight = 220
+    imageTitle = 'dj whitebread logo'
+
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:djwhitebread@gmail.com'
+
+  [[params.socialIcons]]
+    name = 'instagram'
+    url = 'https://www.instagram.com/djwhitebread/'
+
+  [[params.socialIcons]]
+    name = 'threads'
+    url = 'https://www.threads.net/@djwhitebread'
+
+[[menu.main]]
+  identifier = 'posts'
+  name = 'Posts'
+  url = '/posts/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'tags'
+  name = 'Tags'
+  url = '/tags/'
+  weight = 20
+
+[[menu.main]]
+  identifier = 'categories'
+  name = 'Categories'
+  url = '/categories/'
+  weight = 30
