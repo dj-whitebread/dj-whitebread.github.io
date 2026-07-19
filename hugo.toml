@@ -17,7 +17,7 @@ buildExpired = false
 [params]
   env = 'production'
   defaultTheme = 'auto'
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
