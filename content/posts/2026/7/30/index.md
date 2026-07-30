@@ -1,6 +1,6 @@
 ---
-title = "A quiet weekend"
-date = 2026-07-30
+title: "A quiet weekend"
+date: 2026-07-30
 ---
 
 This coming weekend will be quiet. Carrie is at a craft retreat with her friends, and it's just met and the cats. I'm going to use the time to be quiet and be a homebody. I have a few things to do around the house, but mainly I am going to get my run in on Saturday, and just try to get caught up on... I'm not even sure what. 
