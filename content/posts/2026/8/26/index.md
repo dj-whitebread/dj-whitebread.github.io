@@ -11,7 +11,7 @@ And with last weekend gone, we are not going to have any more free weekends in A
 
 So yeah, world's tiniest violin and all that. But there is something nice about being at home, getting takeout, and just having a quiet weekend with Carrie and the cats.
 
-On the trip to Spain, I'm getting to go to the MODELS 2026 conference in Malaga, Spain. I haven't been to the MODELS conference proper in a long time. In 2024, I went for the workshops and smaller conferences beforehand, but didn't stay for the conference proper. The last time I went was 2019 in Munich. It will be good to be there for the whole week, especially since my job has now really been consumed by MBSE for the first time since I was a postdoc, really.
+On the trip to Spain, I'm getting to go to the [MODELS 2026](https://conf.researchr.org/home/models-2026) conference in Málaga, Spain. I haven't been to the MODELS conference proper in a long time. In 2024, I went for the workshops and smaller conferences beforehand, but didn't stay for the conference proper. The last time I went was [2019 in Munich](https://modelsconf19.org/). It will be good to be there for the whole week, especially since my job has now really been consumed by MBSE for the first time since I was a postdoc, really.
 
 I'm also looking forward to being in Baton Rouge, even though it's going to be a quick trip. It will be hot, but usually by the time we leave at the end of September the horrendous heat has finally broken.
 
